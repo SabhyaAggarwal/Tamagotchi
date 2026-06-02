@@ -2402,14 +2402,6 @@
 		(path "/aa4ac52e-852d-4e9e-b47a-3169abc4cae4")
 		(sheetname "/")
 		(sheetfile "Tamagotchi.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "24" "25" "15" "26" "27" "16" "28"
-					"29" "14" "13" "12" "11" "10" "9" "8"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3007,7 +2999,6 @@
 			)
 		)
 		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3052,17 +3043,6 @@
 			)
 			(rotate
 				(xyz -90 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/Seeed Studio XIAO-ESP32-C3.step"
-			(offset
-				(xyz -1.5 -6 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -0)
 			)
 		)
 	)
