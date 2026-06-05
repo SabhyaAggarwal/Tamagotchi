@@ -1,0 +1,7 @@
+Id,Designator,Footprint,Quantity,Designation,Cost(in INR),Cost(in USD),Link,DESCRIPTION
+1,BT1,PinHeader_1x02_P2.54mm_Vertical,1,Battery_Cell,₹11.99,$0.13,https://thinkrobotics.com/products/single-row-2-54-mm-pitch-header-40-pin,Single Row 2.54 mm Pitch break-away Header (40 Pin)
+2,BUZZER1,BUZ-TH_BD12.5-P6.50-D1.4,1,1207-P6.5MM,₹34.99,$0.37,https://thinkrobotics.com/products/piezo-buzzer?variant=12744419508296,5V Buzzer (Pack of 2)
+3,"SW1, SW2, SW3",SW-TH_4P-L4.5-W4.5-P3.00-LS4.8,3,SW_Push,₹15.98,$0.17,https://thinkrobotics.com/products/6mm-tactile-push-button-pack-of-20?variant=39769528860758,6mm x 6mm Tactile Mini Push Button (Pack of 2). I am buying 2 for 4 buttons
+4,U1,XIAO-ESP32-C3-DIP-SMD,1,XIAO-ESP32-C3-SMD,₹649.99,$6.79,https://thinkrobotics.com/products/seeed-studio-xiao-esp32c3?variant=47934246715709,Seeed Studio XIAO ESP32C3 - RISC-V tiny MCU board with Wi-Fi and Bluetooth5.0
+5,U2,OLED-TH_L27.8-W27.2-P2.54_C9900033791,1,HS96L03W2C03,₹150.00,$1.57,https://rees52.com/products/0-96-inch-oled-0-96-inch-4-pin-oled-i2c-iic-communication-display-128-64-lcd-module-for-arduino-aa139,0.96 Inch 12C OLED Display 2.44cm Blue OLED Display Module 4-Pin 128x64 Pixel 12C OLED Display Module For Arduino and Raspberry Pi Projects - AA139
+6,Main PCB,Main PCB,5,Main PCB,₹95.75,$1.00,https://www.allpcb.com/,Main PCB for ALLPCB
